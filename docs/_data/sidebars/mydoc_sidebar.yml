@@ -32,7 +32,7 @@ entries:
       url: /related_work.html
       output: web, pdf
 
-    - title: Questions
+    - title: Our Questions
       url: /questions.html
       output: web, pdf
 
@@ -40,11 +40,11 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: About the dataset
+    - title: About the Dataset
       url: /about_dataset.html
       output: web, pdf
 
-    - title: The features
+    - title: The Features
       url: /the_features.html
       output: web, pdf
 
@@ -69,6 +69,6 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Explaining the pipeline
+    - title: Explaining the Pipeline
       url: /explaining_pipeline.html
       output: web, pdf
