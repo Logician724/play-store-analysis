@@ -18,4 +18,6 @@ folder: mydoc
 * [Can we successfully predict the rating of an app using the other numerical attributes of the app?](/play-store-analysis/answers.html#can-we-predict-the-rating-of-an-app-from-the-other-properties-of-the-app)
 * [What is the most common genre among the apps?](/play-store-analysis/answers.html#what-is-the-most-common-genre-among-the-apps)
 
+* [Can the sentiment analysis dataset be useful for the prediction of app ratings?](/play-store-analysis/answers.html#can-the-sentiment-analysis-dataset-be-useful-for-the-prediction-of-app-ratings)
+
 All of the above questions are answered throughout the rest of this document.

@@ -69,3 +69,13 @@ We conclude that there are no strong correlations. None of the numerical attribu
 
 ## What is the most common genre among the apps?
 From analysis we find the most common genre to be `Tools` while the least common genre for an app is `Music`.
+
+## Can the sentiment analysis dataset be useful for the prediction of app ratings? 
+
+**Can we engineer new per-app features out of it?**
+
+We engineered features based on the the sentiment polarity and subjectivity per app. We gathered the following insights
+
+![Sentiment rating scatter plot](images/sentiment_scatter.png)
+
+As shown by the plot, it seems that apps tend to have a higher rating as the polarity increases. However, the data doesn't seem to show that a rating of an app would drop below 2.5 out of 5. This matches with the fact that rating of the apps in the dataset is skewed. It also indicates that the subset in the Reviews dataset consists of apps with relatively good ratings.
